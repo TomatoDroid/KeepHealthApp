@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">健康管家</string>
+    <string name="home">首页</string>
+    <string name="location">位置</string>
+    <string name="friends">朋友</string>
+    <string name="me">我的</string>
+
+
+    <string name="healthyData">健康数据</string>
+    <string name="healthyInformation">养生资讯</string>
+    <string name="healthyMessage">健康管理</string>
+    <string name="eventReminder">事件提醒</string>
+    <string name="urgentRescue">紧急救援</string>
+    <string name="timelyInquiry">随时问诊</string>
+
+    <string name="locationMe">标准地图</string>
+
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="register">新用户注册</string>
+    <string name="forget">忘记密码？</string>
+    
+    <string name="height">身高</string>
+    <string name="weight">体重</string>
+    <string name="stepNumber">今日步数</string>
+    <string name="sleep">睡眠时间</string>
+    <string name="breathRate">呼吸频率</string>
+    <string name="temperature">体温</string>
+    <string name="heartRate">心率</string>
+    <string name="bloodPressure">血压</string>
+    <string name="bloodType">血型</string>
+</resources>
