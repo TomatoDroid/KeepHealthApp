@@ -20,5 +20,5 @@
             android:textSize="20sp"
             android:id="@+id/textView" />
     </LinearLayout>
-
+    
 </LinearLayout>
